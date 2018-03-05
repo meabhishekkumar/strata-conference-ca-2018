@@ -9,7 +9,7 @@
 
 --- 
 
-Session Content
+### Session Content
 
 1. Slides [ PDF : ]
 2. Notebooks
@@ -19,6 +19,25 @@ Session Content
     - Explicit Feedback Based Recommendation System using Tesnorflow
     - Implicit Feedback Based Recommendation System 
 
+### Setting up the Enviornment
+
+You can easily setup the enviornment with all required components ( data and notebooks ) with the help of Docker.
+
+Here are the steps. 
+
+1. Install Docker on your local machine. You will required documentation on Docker website [ https://docs.docker.com/install/ ]
+
+2. Make sure Docker is working fine. If you are not getting any error and able to see the docker 
+
+```sh
+$ docker --version
+```
+
+3. Download the docker image and create container for the tutorial
+
+```sh
+$ docker run -it --rm -p 8888:8888 -p 0.0.0.0:6006:6006 meabhishekkumar/strata-ca-2018
+```
 
 ### Reference Papers 
 
