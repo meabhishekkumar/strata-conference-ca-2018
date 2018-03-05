@@ -1,0 +1,15 @@
+.DS_Store
+data/
+processed/
+saved_models/
+config.yaml
+tensorboard/
+*.sh
+TODO.txt
+run
+README_Kubernetes.md 
+.ipynb_checkpoints/
+Dockerfile.prod
+.dockerignore
+
+
