@@ -11,10 +11,10 @@
 
 ### Session Content
 
-1. Slides [ PDF : ]
+1. Slides [ PDF : https://github.com/meabhishekkumar/strata-conference-ca-2018/blob/master/deep_learning_based_search_and_recommender_system.pdf ]
 2. Notebooks
-    - Data Preparation : Download required data to your local machine
-    - Short Introduction to Embeddings in Tensorflow
+    - Data Preparation : Download required data to your local machine [https://github.com/meabhishekkumar/strata-conference-ca-2018/blob/master/01_data_preperation.ipynb ]
+    - Short Introduction to Embeddings in Tensorflow 
     - Image Search using Tensorflow
     - Explicit Feedback Based Recommendation System using Tesnorflow
     - Implicit Feedback Based Recommendation System 
